@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94525a75-8267-46db-a0be-416556b70c5d" name="Default Changelist" comment="" />
+    <list default="true" id="94525a75-8267-46db-a0be-416556b70c5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Fridge/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,22 +20,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="md" value="1" />
           <entry key="py" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Markdown" value="1" />
           <entry key="Python" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="15" />
+          <entry key="md" value="52" />
           <entry key="py" value="1353" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="Markdown" value="52" />
           <entry key="PLAIN_TEXT" value="15" />
           <entry key="Python" value="1353" />
         </counts>
@@ -42,7 +48,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Fridge/Quiz_1_ITP_Lab.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-760">
@@ -50,6 +56,18 @@
               <folding>
                 <marker date="1537950611694" expanded="true" signature="561:741" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Fridge/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -70,12 +88,16 @@
       <find>mid</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Fridge/test.py" />
         <option value="$PROJECT_DIR$/Fridge/Fridge.py" />
         <option value="$PROJECT_DIR$/Fridge/Quiz_1_ITP_Lab.py" />
+        <option value="$PROJECT_DIR$/Fridge/README.md" />
       </list>
     </option>
   </component>
@@ -84,6 +106,7 @@
     <option name="width" value="1440" />
     <option name="height" value="815" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -228,6 +251,16 @@
           <folding>
             <marker date="1537950611694" expanded="true" signature="561:741" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fridge/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
