@@ -48,11 +48,6 @@ def put():
         if available < 0:
             print("Top Part of the Fridge is Full!")
             fridge[0].pop(item)
-            sum = 0
-            for i in range(len(fridge[0])):
-                sum = sum + fridge[0][item]
-            available = 15 - sum
-            print("Available Space in the Top Part of the Fridge is,", available)
         option()
     elif pick == "MIDDLE":
         item = input("What Do You Want to Put In : ")
@@ -68,10 +63,6 @@ def put():
             print("Middle Part of the Fridge is Full!")
             fridge[1].pop(item)
             sum=0
-            for i in range(len(fridge[1])):
-                sum = sum + fridge[1][item]
-            available = 15 - sum
-            print("Available Space in the Middle Part of the Fridge is", available)
         option()
     elif pick == "BOTTOM":
         item = input("What Do You Want to Put In : ")
@@ -86,11 +77,6 @@ def put():
         if available < 0:
             print("Bottom Part of the Fridge is Full!")
             fridge[2].pop(item)
-            sum=0
-            for i in range(len(fridge[2])):
-                sum = sum + fridge[2][item]
-            available = 15 - sum
-            print("Available Space in the Bottom Part of the Fridge is", available)
         option()
     else:
         print("TOP/MIDDLE/BOTTOM only")
